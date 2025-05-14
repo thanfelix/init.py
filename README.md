@@ -8,5 +8,3 @@ Conceitos trabalhados : laços em for e while, interpolação de string, funçõ
 Para executar, basta rodar o comando via shell:
 
 python3 ./jogos.py ( arquivo de menu inicial ) ## No diretório ( pasta ) onde está o script, ou usar seu interpretador de costume.
-
-CosmicCodertf.
